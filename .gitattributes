@@ -3,3 +3,4 @@
     *.html linguist-detectable=true
     *.css linguist-detectable=false
     *.cs linguist-detectable=false
+    *.ps1 linguist-detectable=false
